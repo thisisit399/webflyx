@@ -1,0 +1,49 @@
+[33mf947108[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m refs/heads/main@{0}: merge update_titles: Fast-forward
+[33mf947108[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: merge update_titles: Fast-forward
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{1}: checkout: moving from update_titles to main
+[33mf947108[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: commit: G: add curious case
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{3}: checkout: moving from main to update_titles
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{4}: checkout: moving from main to main
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{5}: rebase (abort): returning to refs/heads/main
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{6}: rebase: fast-forward
+[33mbed6efb[m HEAD@{7}: rebase: fast-forward
+[33me05b601[m HEAD@{8}: rebase: fast-forward
+[33meb347dd[m HEAD@{9}: rebase (start): checkout eb347dd
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m refs/heads/main@{1}: reset: moving to bb503a1
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{10}: reset: moving to bb503a1
+[33m2c5e97f[m HEAD@{11}: checkout: moving from main to main
+[33m2c5e97f[m refs/heads/main@{2}: commit (amend): F: Merge branch 'add_classics'
+[33m2c5e97f[m HEAD@{12}: commit (amend): F: Merge branch 'add_classics'
+[33m21c7221[m refs/heads/main@{3}: merge add_classics: Merge made by the 'ort' strategy.
+[33m21c7221[m HEAD@{13}: merge add_classics: Merge made by the 'ort' strategy.
+[33m6275005[m refs/heads/main@{4}: reset: moving to HEAD~1
+[33m6275005[m HEAD@{14}: reset: moving to HEAD~1
+[33m685529a[m HEAD@{15}: checkout: moving from main to main
+[33m685529a[m refs/heads/main@{5}: merge add_classics: Merge made by the 'ort' strategy.
+[33m685529a[m HEAD@{16}: merge add_classics: Merge made by the 'ort' strategy.
+[33m6275005[m HEAD@{17}: checkout: moving from main to main
+[33m6275005[m refs/heads/main@{6}: commit: E: add contents
+[33m6275005[m HEAD@{18}: commit: E: add contents
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{19}: checkout: moving from add_classics to main
+[33m0ccf9ab[m HEAD@{20}: commit: D: Add classics
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{21}: checkout: moving from main to add_classics
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{22}: checkout: moving from add_classics to main
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{23}: checkout: moving from my_new_branch to add_classics
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{24}: checkout: moving from main to my_new_branch
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m refs/heads/my_new_branch@{0}: branch: Created from main
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m refs/heads/main@{7}: Branch: renamed refs/heads/master to refs/heads/main
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{25}: Branch: renamed refs/heads/master to refs/heads/main
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m refs/heads/main@{8}: commit (amend): C: add quotes
+[33mbb503a1[m[33m ([m[1;32mmy_new_branch[m[33m)[m HEAD@{27}: commit (amend): C: add quotes
+[33me8ef7b0[m refs/heads/main@{9}: commit: C: add quotes
+[33me8ef7b0[m HEAD@{28}: commit: C: add quotes
+[33mbed6efb[m HEAD@{29}: reset: moving to HEAD
+[33mbed6efb[m refs/heads/main@{10}: commit: C: add quotes
+[33mbed6efb[m HEAD@{30}: commit: C: add quotes
+[33me05b601[m refs/heads/main@{11}: commit: B: add titles
+[33me05b601[m HEAD@{31}: commit: B: add titles
+[33meb347dd[m refs/heads/main@{12}: commit (amend): A: add contents.md
+[33meb347dd[m HEAD@{32}: commit (amend): A: add contents.md
+[33m9f63463[m HEAD@{33}: reset: moving to HEAD
+[33m9f63463[m refs/heads/main@{13}: commit (initial): contents.md has been uploaded
+[33m9f63463[m HEAD@{34}: commit (initial): contents.md has been uploaded
